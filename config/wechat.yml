@@ -1,0 +1,15 @@
+doolines:
+  development:
+    host: http://weixin.doolines.com
+    wechat_id: gh_a7cd2f4df65d
+    app_id: wx7be3564190e804d0
+    app_secret: 84d1c83c8b846d73ae5e4d0b957073b3
+    oauth2_redirect_uri: "http://weixin.doolines.com/wechat/users/callback"
+    push_url: "http://weixin.doolines.com/wechat/push"
+    push_token: abcd1234
+  production:
+    host: http://weixin.doolines.com
+
+    wechat_id: gh_a7cd2f4df65d
+    app_id: wx7be3564190e804d0
+    app_secret: 84d1c83c8b846d73ae5e4d0b957073b3
